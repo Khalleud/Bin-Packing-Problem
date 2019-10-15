@@ -1,0 +1,15 @@
+d'abord je dois créer un dataset pr le training
+pour chaque Configuration que je choisis je dois tester sur tous les algos créer, et si l'algo est paramétrables ( comme les AG ) alors je dois aussi essayer plusieurs paramétre 
+mon dataset aura comme variable : 
+  - la taille de l'instance
+  - moyenne des objet 
+  - écart type des objets 
+  - taille d'un bin 
+  - distribution de probabilité des objets 
+  - meilleur méthode 
+  ceci est le dataset final que je dois créer 
+pour créer ce dataset j'aurais besoins de plusieurs dataset 
+ chaque algorithme aura son dataset avec ses propre variable.
+
+pour chaque configuraiton j'affecterais un score pour chaque algorithme ( qui sera calculé en fonction du temps d'execution et et la qualité de la solution) 
+pour chaque configuration, la meilleur méthode ( le meilleur algoithme) sera celui qui a le plus grand score  
